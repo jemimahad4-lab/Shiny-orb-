@@ -1,0 +1,6 @@
+{
+  "name": "Dodge the Spikes 2",
+  "description": "Fast-paced arcade mobile-first survival game featuring 30 handcrafted levels, endless survival, time attack, daily challenges, power-ups, characters, themes, and local leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
